@@ -43,4 +43,4 @@
         src: './assets/img/bomb.png',
       },
     ];
-  ```
+  ```# Slot-Machine
